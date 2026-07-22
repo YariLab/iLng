@@ -1,0 +1,10 @@
+# Build output
+bin/
+
+# Local/debug leftovers
+assets/_compare/
+*.user
+*.suo
+.vs/
+Desktop.ini
+Thumbs.db
